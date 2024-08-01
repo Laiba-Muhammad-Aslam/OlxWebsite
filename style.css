@@ -36,3 +36,9 @@ nav.navbar{
     height: 200px;
     background-size: cover;
 }
+
+/* FOOTER  */
+
+footer{
+    background-color: #EBEEEF;
+}
