@@ -42,3 +42,18 @@ nav.navbar{
 footer{
     background-color: #EBEEEF;
 }
+footer ul > li{
+    list-style-type: none;
+    font-size: 0.95rem;
+    color: grey;
+}
+footer span{
+    border: 2px solid grey;
+    border-radius: 100%;
+    padding: 0.1rem;
+    margin: 0.1rem;
+}
+footer i{
+    color: grey;
+    
+}
